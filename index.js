@@ -21,16 +21,16 @@ client.on('message', message => {
    */
   .setColor(0x00AE86)
   .setDescription("This is the main body of text, it can hold 2048 characters.")
-  .setFooter("This is the footer text, it can hold 2048 characters", "http://i.imgur.com/w1vhFSR.png")
-  .setImage("http://i.imgur.com/yVpymuV.png")
-  .setThumbnail("http://i.imgur.com/p2qNFag.png")
+  .setFooter("ёпта", "http://i.imgur.com/w1vhFSR.png")
+  .setImage("https://images2.domashnyochag.ru/upload/img_cache/cfd/cfd9dd3c5f2f3eb57384d836e0cf7a65_ce_1000x555x0x97_cropped_930x510_fitted_1260x700.jpg")
+  .setThumbnail("https://st.kp.yandex.net/images/actor_iphone/iphone360_3098539.jpg")
   /*
    * Takes a Date object, defaults to current date.
    */
   .setTimestamp()
   .setURL("https://discord.js.org/#/docs/main/indev/class/RichEmbed")
-  .addField("This is a field title, it can hold 256 characters",
-    "This is a field value, it can hold 2048 characters.")
+  .addField("Азазазазаз нахуй",
+    "Сукабля")
   /*
    * Inline fields may not display as inline if the thumbnail and/or image is too big.
    */
